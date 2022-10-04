@@ -4,11 +4,9 @@
 PyGenerator is a utility class that automatizes the creation of a new Python project.
 
 ## Installation
-You can clone the project inside your working directory and start to use it
-right away.
-
-You can also install the package locally.
-Clone the repository and run pip at the root level.
+Clone the project inside your working directory.
+You can use it right away by adding the cloned folder into sys.path.
+You can also install the package locally by running pip at the root level.
 ```sh
 pip install /path/to/root/level
 ```
