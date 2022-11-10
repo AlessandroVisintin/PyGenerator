@@ -97,7 +97,7 @@ SETUP = {
 		'py': 'import setuptools\n\nsetuptools.setup()\n',
 		'cfg': (
 				'[metadata]\n'
-				'name = local_{name}\n'
+				'name = {name}\n'
 				'version = {version}\n'
 				'long_description = file: README.md\n'
 				'license = {licens}\n\n'
